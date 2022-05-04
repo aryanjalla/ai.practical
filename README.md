@@ -1,6 +1,6 @@
-https://docs.google.com/document/d/1Zr4Picb3Bd6ADWngup9QWxJi5DE_bj63Jl8EOwS-w0s/edit?usp=sharing (list of code links)
-https://github.com/Avi-2362/18CSC305J-AI-Lab 
-https://github.com/shushrutsharma/18CSC305J-AI
+https://docs.google.com/document/d/1Zr4Picb3Bd6ADWngup9QWxJi5DE_bj63Jl8EOwS-w0s/edit?usp=sharing (list of code links) <br /> 
+https://github.com/Avi-2362/18CSC305J-AI-Lab  <br /> 
+https://github.com/shushrutsharma/18CSC305J-AI <br /> 
 
 BFS-queue
 DFS-stack
