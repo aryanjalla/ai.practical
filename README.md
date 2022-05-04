@@ -1,4 +1,7 @@
-# https://docs.google.com/document/d/1Zr4Picb3Bd6ADWngup9QWxJi5DE_bj63Jl8EOwS-w0s/edit?usp=sharing
+# https://docs.google.com/document/d/1Zr4Picb3Bd6ADWngup9QWxJi5DE_bj63Jl8EOwS-w0s/edit?usp=sharing (list of code links)
+# https://github.com/Avi-2362/18CSC305J-AI-Lab 
+# https://github.com/shushrutsharma/18CSC305J-AI
+
 # 18CSC305J-AI LAB
 List of all the Experiments: 
 1. Toy Program Implemetation
